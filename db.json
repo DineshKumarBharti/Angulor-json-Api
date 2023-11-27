@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Employee": [
+    {
+      "id": 2,
+      "title": "umesh",
+      "author": "dk"
+    },
+    {
+      "id": 3,
+      "title": "ravi",
+      "author": "rk"
+    },
+    {
+      "id": 4,
+      "title": "sanjeet",
+      "author": "sk"
+    }
+  ],
+  "comments": [
+    {
+      "id": 3,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ]
+}
